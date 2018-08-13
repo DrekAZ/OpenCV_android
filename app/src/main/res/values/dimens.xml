@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeB">75dp</dimen>
+    <dimen name="spaceB">50dp</dimen>
+
+    <dimen name="sizeT">70dp</dimen>
+    <dimen  name="text">50sp</dimen>
+
+    <dimen name="size_t">30dp</dimen>
+    <dimen name="small_t">15sp</dimen>
+    
+    <dimen name="ImageB">40dp</dimen>
+
+    <dimen name="drawer">240dp</dimen>
+
+    <dimen name="EffectSize">25sp</dimen>
+    <dimen name="EffectS">85dp</dimen>
+
+
+</resources>

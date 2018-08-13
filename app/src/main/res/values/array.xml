@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spnEntries">
+        <item>デフォルト</item>
+        <item>グレースケール</item>
+        <item>エッジ</item>
+    </string-array>
+
+    <string-array name="spnFace">
+        <item>男</item>
+        <item>モザイク</item>
+        <item>白</item>
+    </string-array>
+
+</resources>

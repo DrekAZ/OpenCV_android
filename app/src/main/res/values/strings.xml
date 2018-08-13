@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OpenCV_Face</string>
+    <string name="text_layout">TextView</string>
+
+    <string name="small_t1">Take Picture</string>
+    <string name="small_t2">Add etc</string>
+
+    <string name="DrawerTitle">Options</string>
+
+    <string name="Effect">カメラエフェクト変更</string>
+    <string name="Face">顔</string>
+</resources>
